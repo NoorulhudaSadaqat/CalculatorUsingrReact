@@ -4,7 +4,6 @@ import './Button.css'
 export class Button extends Component {
   constructor(props) {
     super(props)
-    console.log('Class name :' + this.props.Class)
   }
 
   render() {
